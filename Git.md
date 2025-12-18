@@ -9,6 +9,6 @@
 
 ## Настройка пользователя
 
-git config --global user.name "Butko"
+git config --global user.name "Ivanov"
 
-git config --global user.email "abutko@gmail.com"
+git config --global user.email "test@gmail.com"
