@@ -1,1 +1,1 @@
-# obsidian-linux
+База знаний, управляемая Obsidian (https://obsidian.md) 
