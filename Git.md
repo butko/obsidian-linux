@@ -12,3 +12,6 @@
 git config --global user.name "Ivanov"
 
 git config --global user.email "test@gmail.com"
+
+# ПО для работы с Git
+* [[SmartGit]]
