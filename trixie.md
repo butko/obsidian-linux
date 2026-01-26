@@ -1,0 +1,2 @@
+* Что нужно знать о trixie: https://www.debian.org/releases/trixie/release-notes/issues.ru.html#issues-to-be-aware-of-for-releasename
+* Как обновить Debian 12 до Debian 13 Trixie: https://serveradmin.ru/kak-obnovit-debian-12-do-debian-13-trixie/
